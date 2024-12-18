@@ -497,3 +497,19 @@ li {
 	margin-bottom: 1em;
 	border-top: 1px solid rgba(var(--gray), 0.2);
 }
+
+/* width */
+::-webkit-scrollbar {
+	width: 10px;
+  }
+  
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+	background: #818cf8; 
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+	background: #534ce7; 
+  }
