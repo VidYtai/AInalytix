@@ -1,5 +1,5 @@
 ---
-title: 10 Must-Try AI Tools That Are Changing the Game Today
+title: 9 Must-Try AI Tools That Are Changing the Game Today
 description: Because the future isn’t coming — it’s already here.AI isn’t just about futuristic robots or sci-fi thrillers anymore. It's already in your browser, your phone, your meetings, and maybe even helping you write emails (hi there, Gmail smart replies 👀). Whether you're a student, entrepreneur, content creator, or just curious about the AI wave — here are 9 seriously cool AI tools you should try right now.
 publish: true
 created_date: 2025-04-13
